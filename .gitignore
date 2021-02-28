@@ -1,0 +1,9 @@
+.vscode/
+
+data/
+
+out.exe
+
+HelloWorld.c
+
+.clang-format
